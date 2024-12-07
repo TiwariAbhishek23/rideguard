@@ -1,0 +1,1 @@
+ /Users/vivek/Desktop/RideGuardian/rideguard/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/vivek/Desktop/RideGuardian/rideguard/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/vivek/Desktop/RideGuardian/rideguard/l10n.yaml /Users/vivek/Desktop/RideGuardian/rideguard/lib/src/localization/app_en.arb
